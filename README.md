@@ -1,2 +1,6 @@
-# app-dev
-My first repository
+# Favorite Series/Movies: Tinker Bell and the Legend of the Neverbeast
+“Tinker Bell and the Legend of the NeverBeast” is an animated fantasy film produced by DisneyToon Studios. Set in Pixie Hollow, the movie focuses on Fawn, a warm-hearted, animal-loving fairy, rather than Tinker Bell, who takes more of a supporting role. Fawn discovers a mysterious, large creature called the NeverBeast, named Gruff, with stone-gray fur, glowing green eyes, and horns. Though Gruff appears fearsome, Fawn senses he has a gentle soul, leading her to form a close bond with him despite warnings from other fairies.
+
+As Fawn learns more about Gruff, she uncovers a prophecy warning that the NeverBeast’s presence is tied to a series of storms that threaten Pixie Hollow. While Tinker Bell and other fairies initially distrust Gruff, Fawn is determined to prove he means no harm. Together, they navigate tensions between protecting Pixie Hollow and helping Gruff fulfill his mysterious purpose. The film beautifully explores themes of friendship, courage, and empathy, emphasizing the importance of looking beyond appearances to understand others.
+
+![alt text](https://image.tmdb.org/t/p/original/nsKRFvy0GCSSbh8pOq1iFfSSRG2.jpg)
